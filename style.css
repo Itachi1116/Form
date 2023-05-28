@@ -1,0 +1,31 @@
+  #ind {
+     margin: 0px;
+     height: 100%;
+     background-color: black;
+  }
+
+  .form,
+  .table {
+     margin-top: 80px;
+     display: block;
+     width: 300px;
+     border: 2px solid white;
+     font-size: 40px;
+     text-decoration: none;
+     color: chocolate;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 5px;
+     text-align: center;
+     background-color: lightcyan;
+  }
+
+  .mainbtn {
+     text-decoration: none;
+     display: block;
+     border: 2px solid white;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 5px;
+     text-align: center;
+  }
